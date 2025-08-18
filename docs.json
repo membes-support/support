@@ -66,6 +66,29 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "User Guide",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "overview/introduction",
+              "overview/access-support",
+              "overview/admin-users",
+              "overview/account-menu"
+            ]
+          },
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete",
+              "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
       }
     ],
     "global": {
