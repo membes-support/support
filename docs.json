@@ -23,27 +23,21 @@
         "dropdown": "Setup Guide",
         "icon": "square-terminal",
         "pages": [
-          "api-reference/get",
-          "api-reference/post",
-          "api-reference/delete"
+          "api-reference/introduction"
         ]
       },
       {
         "dropdown": "Knowledge Base",
         "icon": "square-terminal",
         "pages": [
-          "api-reference/get",
-          "api-reference/post",
-          "api-reference/delete"
+          "ai-tools/claude-code"
         ]
       },
       {
         "dropdown": "Release Notes",
         "icon": "square-terminal",
         "pages": [
-          "api-reference/get",
-          "api-reference/post",
-          "api-reference/delete"
+          "essentials/release-notes"
         ]
       }
     ]
